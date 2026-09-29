@@ -1,0 +1,2143 @@
+{
+    "status": "success",
+    "code": 200,
+    "data": {
+        "programId": 29927,
+        "locId": 2,
+        "screenId": 7,
+        "totalSeats": 263,
+        "movieId": 1713,
+        "showDate": null,
+        "showTime": null,
+        "lastSeatStatusOn": "2026-07-30 02:03:28",
+        "seatTypes": [
+            {
+                "seatTypeId": 2,
+                "seatTypeTitle": "Premium",
+                "seatCapacity": 0,
+                "seatRowCount": 10,
+                "seatColsCount": 24,
+                "dispOrder": 1,
+                "seatStatus": [
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1962,
+                        "seatTitle": "S20",
+                        "rowPosition": 1,
+                        "colPosition": 1,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1963,
+                        "seatTitle": "S19",
+                        "rowPosition": 1,
+                        "colPosition": 2,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1964,
+                        "seatTitle": "S18",
+                        "rowPosition": 1,
+                        "colPosition": 3,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1965,
+                        "seatTitle": "S17",
+                        "rowPosition": 1,
+                        "colPosition": 4,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1966,
+                        "seatTitle": "S16",
+                        "rowPosition": 1,
+                        "colPosition": 5,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1967,
+                        "seatTitle": "S15",
+                        "rowPosition": 1,
+                        "colPosition": 6,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1968,
+                        "seatTitle": "S14",
+                        "rowPosition": 1,
+                        "colPosition": 7,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2047,
+                        "seatTitle": "S08",
+                        "rowPosition": 1,
+                        "colPosition": 17,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2048,
+                        "seatTitle": "S07",
+                        "rowPosition": 1,
+                        "colPosition": 18,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2107,
+                        "seatTitle": "S06",
+                        "rowPosition": 1,
+                        "colPosition": 19,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2108,
+                        "seatTitle": "S05",
+                        "rowPosition": 1,
+                        "colPosition": 20,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2109,
+                        "seatTitle": "S04",
+                        "rowPosition": 1,
+                        "colPosition": 21,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2110,
+                        "seatTitle": "S03",
+                        "rowPosition": 1,
+                        "colPosition": 22,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2111,
+                        "seatTitle": "S02",
+                        "rowPosition": 1,
+                        "colPosition": 23,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2112,
+                        "seatTitle": "S01",
+                        "rowPosition": 1,
+                        "colPosition": 24,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1969,
+                        "seatTitle": "R20",
+                        "rowPosition": 2,
+                        "colPosition": 1,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1970,
+                        "seatTitle": "R19",
+                        "rowPosition": 2,
+                        "colPosition": 2,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1971,
+                        "seatTitle": "R18",
+                        "rowPosition": 2,
+                        "colPosition": 3,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1972,
+                        "seatTitle": "R17",
+                        "rowPosition": 2,
+                        "colPosition": 4,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1973,
+                        "seatTitle": "R16",
+                        "rowPosition": 2,
+                        "colPosition": 7,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1974,
+                        "seatTitle": "R15",
+                        "rowPosition": 2,
+                        "colPosition": 8,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2049,
+                        "seatTitle": "R06",
+                        "rowPosition": 2,
+                        "colPosition": 17,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2050,
+                        "seatTitle": "R05",
+                        "rowPosition": 2,
+                        "colPosition": 18,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2113,
+                        "seatTitle": "R04",
+                        "rowPosition": 2,
+                        "colPosition": 21,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2114,
+                        "seatTitle": "R03",
+                        "rowPosition": 2,
+                        "colPosition": 22,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2115,
+                        "seatTitle": "R02",
+                        "rowPosition": 2,
+                        "colPosition": 23,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2116,
+                        "seatTitle": "R01",
+                        "rowPosition": 2,
+                        "colPosition": 24,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1975,
+                        "seatTitle": "P20",
+                        "rowPosition": 3,
+                        "colPosition": 1,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1983,
+                        "seatTitle": "P19",
+                        "rowPosition": 3,
+                        "colPosition": 2,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1984,
+                        "seatTitle": "P18",
+                        "rowPosition": 3,
+                        "colPosition": 3,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1985,
+                        "seatTitle": "P17",
+                        "rowPosition": 3,
+                        "colPosition": 4,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2007,
+                        "seatTitle": "P16",
+                        "rowPosition": 3,
+                        "colPosition": 7,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2008,
+                        "seatTitle": "P15",
+                        "rowPosition": 3,
+                        "colPosition": 8,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2009,
+                        "seatTitle": "P14",
+                        "rowPosition": 3,
+                        "colPosition": 9,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2010,
+                        "seatTitle": "P13",
+                        "rowPosition": 3,
+                        "colPosition": 10,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2011,
+                        "seatTitle": "P12",
+                        "rowPosition": 3,
+                        "colPosition": 11,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2051,
+                        "seatTitle": "P11",
+                        "rowPosition": 3,
+                        "colPosition": 12,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2052,
+                        "seatTitle": "P10",
+                        "rowPosition": 3,
+                        "colPosition": 13,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2053,
+                        "seatTitle": "P09",
+                        "rowPosition": 3,
+                        "colPosition": 14,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2054,
+                        "seatTitle": "P08",
+                        "rowPosition": 3,
+                        "colPosition": 15,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2055,
+                        "seatTitle": "P07",
+                        "rowPosition": 3,
+                        "colPosition": 16,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2056,
+                        "seatTitle": "P06",
+                        "rowPosition": 3,
+                        "colPosition": 17,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2057,
+                        "seatTitle": "P05",
+                        "rowPosition": 3,
+                        "colPosition": 18,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2117,
+                        "seatTitle": "P04",
+                        "rowPosition": 3,
+                        "colPosition": 21,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2118,
+                        "seatTitle": "P03",
+                        "rowPosition": 3,
+                        "colPosition": 22,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2119,
+                        "seatTitle": "P02",
+                        "rowPosition": 3,
+                        "colPosition": 23,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2120,
+                        "seatTitle": "P01",
+                        "rowPosition": 3,
+                        "colPosition": 24,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1976,
+                        "seatTitle": "N20",
+                        "rowPosition": 4,
+                        "colPosition": 1,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1986,
+                        "seatTitle": "N19",
+                        "rowPosition": 4,
+                        "colPosition": 2,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1987,
+                        "seatTitle": "N18",
+                        "rowPosition": 4,
+                        "colPosition": 3,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1988,
+                        "seatTitle": "N17",
+                        "rowPosition": 4,
+                        "colPosition": 4,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2012,
+                        "seatTitle": "N16",
+                        "rowPosition": 4,
+                        "colPosition": 7,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2013,
+                        "seatTitle": "N15",
+                        "rowPosition": 4,
+                        "colPosition": 8,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2014,
+                        "seatTitle": "N14",
+                        "rowPosition": 4,
+                        "colPosition": 9,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2015,
+                        "seatTitle": "N13",
+                        "rowPosition": 4,
+                        "colPosition": 10,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2016,
+                        "seatTitle": "N12",
+                        "rowPosition": 4,
+                        "colPosition": 11,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2058,
+                        "seatTitle": "N11",
+                        "rowPosition": 4,
+                        "colPosition": 12,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2059,
+                        "seatTitle": "N10",
+                        "rowPosition": 4,
+                        "colPosition": 13,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2060,
+                        "seatTitle": "N09",
+                        "rowPosition": 4,
+                        "colPosition": 14,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2061,
+                        "seatTitle": "N08",
+                        "rowPosition": 4,
+                        "colPosition": 15,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2062,
+                        "seatTitle": "N07",
+                        "rowPosition": 4,
+                        "colPosition": 16,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2063,
+                        "seatTitle": "N06",
+                        "rowPosition": 4,
+                        "colPosition": 17,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2064,
+                        "seatTitle": "N05",
+                        "rowPosition": 4,
+                        "colPosition": 18,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2121,
+                        "seatTitle": "N04",
+                        "rowPosition": 4,
+                        "colPosition": 21,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2122,
+                        "seatTitle": "N03",
+                        "rowPosition": 4,
+                        "colPosition": 22,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2123,
+                        "seatTitle": "N02",
+                        "rowPosition": 4,
+                        "colPosition": 23,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2124,
+                        "seatTitle": "N01",
+                        "rowPosition": 4,
+                        "colPosition": 24,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1977,
+                        "seatTitle": "M20",
+                        "rowPosition": 5,
+                        "colPosition": 1,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1989,
+                        "seatTitle": "M19",
+                        "rowPosition": 5,
+                        "colPosition": 2,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1990,
+                        "seatTitle": "M18",
+                        "rowPosition": 5,
+                        "colPosition": 3,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1991,
+                        "seatTitle": "M17",
+                        "rowPosition": 5,
+                        "colPosition": 4,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2017,
+                        "seatTitle": "M16",
+                        "rowPosition": 5,
+                        "colPosition": 7,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2018,
+                        "seatTitle": "M15",
+                        "rowPosition": 5,
+                        "colPosition": 8,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2019,
+                        "seatTitle": "M14",
+                        "rowPosition": 5,
+                        "colPosition": 9,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2020,
+                        "seatTitle": "M13",
+                        "rowPosition": 5,
+                        "colPosition": 10,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2021,
+                        "seatTitle": "M12",
+                        "rowPosition": 5,
+                        "colPosition": 11,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2065,
+                        "seatTitle": "M11",
+                        "rowPosition": 5,
+                        "colPosition": 12,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2066,
+                        "seatTitle": "M10",
+                        "rowPosition": 5,
+                        "colPosition": 13,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2067,
+                        "seatTitle": "M09",
+                        "rowPosition": 5,
+                        "colPosition": 14,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2068,
+                        "seatTitle": "M08",
+                        "rowPosition": 5,
+                        "colPosition": 15,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2069,
+                        "seatTitle": "M07",
+                        "rowPosition": 5,
+                        "colPosition": 16,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2070,
+                        "seatTitle": "M06",
+                        "rowPosition": 5,
+                        "colPosition": 17,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2071,
+                        "seatTitle": "M05",
+                        "rowPosition": 5,
+                        "colPosition": 18,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2125,
+                        "seatTitle": "M04",
+                        "rowPosition": 5,
+                        "colPosition": 21,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2126,
+                        "seatTitle": "M03",
+                        "rowPosition": 5,
+                        "colPosition": 22,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2127,
+                        "seatTitle": "M02",
+                        "rowPosition": 5,
+                        "colPosition": 23,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2128,
+                        "seatTitle": "M01",
+                        "rowPosition": 5,
+                        "colPosition": 24,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1978,
+                        "seatTitle": "L20",
+                        "rowPosition": 6,
+                        "colPosition": 1,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1992,
+                        "seatTitle": "L19",
+                        "rowPosition": 6,
+                        "colPosition": 2,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1993,
+                        "seatTitle": "L18",
+                        "rowPosition": 6,
+                        "colPosition": 3,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1994,
+                        "seatTitle": "L17",
+                        "rowPosition": 6,
+                        "colPosition": 4,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2022,
+                        "seatTitle": "L16",
+                        "rowPosition": 6,
+                        "colPosition": 7,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2023,
+                        "seatTitle": "L15",
+                        "rowPosition": 6,
+                        "colPosition": 8,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2024,
+                        "seatTitle": "L14",
+                        "rowPosition": 6,
+                        "colPosition": 9,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2025,
+                        "seatTitle": "L13",
+                        "rowPosition": 6,
+                        "colPosition": 10,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2026,
+                        "seatTitle": "L12",
+                        "rowPosition": 6,
+                        "colPosition": 11,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2072,
+                        "seatTitle": "L11",
+                        "rowPosition": 6,
+                        "colPosition": 12,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2073,
+                        "seatTitle": "L10",
+                        "rowPosition": 6,
+                        "colPosition": 13,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2074,
+                        "seatTitle": "L09",
+                        "rowPosition": 6,
+                        "colPosition": 14,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2075,
+                        "seatTitle": "L08",
+                        "rowPosition": 6,
+                        "colPosition": 15,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2076,
+                        "seatTitle": "L07",
+                        "rowPosition": 6,
+                        "colPosition": 16,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2077,
+                        "seatTitle": "L06",
+                        "rowPosition": 6,
+                        "colPosition": 17,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2078,
+                        "seatTitle": "L05",
+                        "rowPosition": 6,
+                        "colPosition": 18,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2129,
+                        "seatTitle": "L04",
+                        "rowPosition": 6,
+                        "colPosition": 21,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2130,
+                        "seatTitle": "L03",
+                        "rowPosition": 6,
+                        "colPosition": 22,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2131,
+                        "seatTitle": "L02",
+                        "rowPosition": 6,
+                        "colPosition": 23,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2132,
+                        "seatTitle": "L01",
+                        "rowPosition": 6,
+                        "colPosition": 24,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1979,
+                        "seatTitle": "K20",
+                        "rowPosition": 7,
+                        "colPosition": 1,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1995,
+                        "seatTitle": "K19",
+                        "rowPosition": 7,
+                        "colPosition": 2,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1996,
+                        "seatTitle": "K18",
+                        "rowPosition": 7,
+                        "colPosition": 3,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1997,
+                        "seatTitle": "K17",
+                        "rowPosition": 7,
+                        "colPosition": 4,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2027,
+                        "seatTitle": "K16",
+                        "rowPosition": 7,
+                        "colPosition": 7,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2028,
+                        "seatTitle": "K15",
+                        "rowPosition": 7,
+                        "colPosition": 8,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2029,
+                        "seatTitle": "K14",
+                        "rowPosition": 7,
+                        "colPosition": 9,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2030,
+                        "seatTitle": "K13",
+                        "rowPosition": 7,
+                        "colPosition": 10,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2031,
+                        "seatTitle": "K12",
+                        "rowPosition": 7,
+                        "colPosition": 11,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2079,
+                        "seatTitle": "K11",
+                        "rowPosition": 7,
+                        "colPosition": 12,
+                        "seatStatus": 0
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2080,
+                        "seatTitle": "K10",
+                        "rowPosition": 7,
+                        "colPosition": 13,
+                        "seatStatus": 0
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2081,
+                        "seatTitle": "K09",
+                        "rowPosition": 7,
+                        "colPosition": 14,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2082,
+                        "seatTitle": "K08",
+                        "rowPosition": 7,
+                        "colPosition": 15,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2083,
+                        "seatTitle": "K07",
+                        "rowPosition": 7,
+                        "colPosition": 16,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2084,
+                        "seatTitle": "K06",
+                        "rowPosition": 7,
+                        "colPosition": 17,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2085,
+                        "seatTitle": "K05",
+                        "rowPosition": 7,
+                        "colPosition": 18,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1980,
+                        "seatTitle": "J20",
+                        "rowPosition": 8,
+                        "colPosition": 1,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1998,
+                        "seatTitle": "J19",
+                        "rowPosition": 8,
+                        "colPosition": 2,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1999,
+                        "seatTitle": "J18",
+                        "rowPosition": 8,
+                        "colPosition": 3,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2000,
+                        "seatTitle": "J17",
+                        "rowPosition": 8,
+                        "colPosition": 4,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2032,
+                        "seatTitle": "J16",
+                        "rowPosition": 8,
+                        "colPosition": 7,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2033,
+                        "seatTitle": "J15",
+                        "rowPosition": 8,
+                        "colPosition": 8,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2034,
+                        "seatTitle": "J14",
+                        "rowPosition": 8,
+                        "colPosition": 9,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2035,
+                        "seatTitle": "J13",
+                        "rowPosition": 8,
+                        "colPosition": 10,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2036,
+                        "seatTitle": "J12",
+                        "rowPosition": 8,
+                        "colPosition": 11,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2086,
+                        "seatTitle": "J11",
+                        "rowPosition": 8,
+                        "colPosition": 12,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2087,
+                        "seatTitle": "J10",
+                        "rowPosition": 8,
+                        "colPosition": 13,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2088,
+                        "seatTitle": "J09",
+                        "rowPosition": 8,
+                        "colPosition": 14,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2089,
+                        "seatTitle": "J08",
+                        "rowPosition": 8,
+                        "colPosition": 15,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2090,
+                        "seatTitle": "J07",
+                        "rowPosition": 8,
+                        "colPosition": 16,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2091,
+                        "seatTitle": "J06",
+                        "rowPosition": 8,
+                        "colPosition": 17,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2092,
+                        "seatTitle": "J05",
+                        "rowPosition": 8,
+                        "colPosition": 18,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1981,
+                        "seatTitle": "H20",
+                        "rowPosition": 9,
+                        "colPosition": 1,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2001,
+                        "seatTitle": "H19",
+                        "rowPosition": 9,
+                        "colPosition": 2,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2002,
+                        "seatTitle": "H18",
+                        "rowPosition": 9,
+                        "colPosition": 3,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2003,
+                        "seatTitle": "H17",
+                        "rowPosition": 9,
+                        "colPosition": 4,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2037,
+                        "seatTitle": "H16",
+                        "rowPosition": 9,
+                        "colPosition": 7,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2038,
+                        "seatTitle": "H15",
+                        "rowPosition": 9,
+                        "colPosition": 8,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2039,
+                        "seatTitle": "H14",
+                        "rowPosition": 9,
+                        "colPosition": 9,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2040,
+                        "seatTitle": "H13",
+                        "rowPosition": 9,
+                        "colPosition": 10,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2041,
+                        "seatTitle": "H12",
+                        "rowPosition": 9,
+                        "colPosition": 11,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2093,
+                        "seatTitle": "H11",
+                        "rowPosition": 9,
+                        "colPosition": 12,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2094,
+                        "seatTitle": "H10",
+                        "rowPosition": 9,
+                        "colPosition": 13,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2095,
+                        "seatTitle": "H09",
+                        "rowPosition": 9,
+                        "colPosition": 14,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2096,
+                        "seatTitle": "H08",
+                        "rowPosition": 9,
+                        "colPosition": 15,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2097,
+                        "seatTitle": "H07",
+                        "rowPosition": 9,
+                        "colPosition": 16,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2098,
+                        "seatTitle": "H06",
+                        "rowPosition": 9,
+                        "colPosition": 17,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2099,
+                        "seatTitle": "H05",
+                        "rowPosition": 9,
+                        "colPosition": 18,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 1982,
+                        "seatTitle": "G20",
+                        "rowPosition": 10,
+                        "colPosition": 1,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2004,
+                        "seatTitle": "G19",
+                        "rowPosition": 10,
+                        "colPosition": 2,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2005,
+                        "seatTitle": "G18",
+                        "rowPosition": 10,
+                        "colPosition": 3,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2006,
+                        "seatTitle": "G17",
+                        "rowPosition": 10,
+                        "colPosition": 4,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2042,
+                        "seatTitle": "G16",
+                        "rowPosition": 10,
+                        "colPosition": 7,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2043,
+                        "seatTitle": "G15",
+                        "rowPosition": 10,
+                        "colPosition": 8,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2044,
+                        "seatTitle": "G14",
+                        "rowPosition": 10,
+                        "colPosition": 9,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2045,
+                        "seatTitle": "G13",
+                        "rowPosition": 10,
+                        "colPosition": 10,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2046,
+                        "seatTitle": "G12",
+                        "rowPosition": 10,
+                        "colPosition": 11,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2100,
+                        "seatTitle": "G11",
+                        "rowPosition": 10,
+                        "colPosition": 12,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2101,
+                        "seatTitle": "G10",
+                        "rowPosition": 10,
+                        "colPosition": 13,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2102,
+                        "seatTitle": "G09",
+                        "rowPosition": 10,
+                        "colPosition": 14,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2103,
+                        "seatTitle": "G08",
+                        "rowPosition": 10,
+                        "colPosition": 15,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2104,
+                        "seatTitle": "G07",
+                        "rowPosition": 10,
+                        "colPosition": 16,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2105,
+                        "seatTitle": "G06",
+                        "rowPosition": 10,
+                        "colPosition": 17,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 2,
+                        "seatSeqId": 2106,
+                        "seatTitle": "G05",
+                        "rowPosition": 10,
+                        "colPosition": 18,
+                        "seatStatus": 1
+                    }
+                ]
+            },
+            {
+                "seatTypeId": 1,
+                "seatTypeTitle": "Regular",
+                "seatCapacity": 0,
+                "seatRowCount": 6,
+                "seatColsCount": 18,
+                "dispOrder": 1,
+                "seatStatus": [
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1870,
+                        "seatTitle": "F20",
+                        "rowPosition": 11,
+                        "colPosition": 1,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1875,
+                        "seatTitle": "F19",
+                        "rowPosition": 11,
+                        "colPosition": 2,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1876,
+                        "seatTitle": "F18",
+                        "rowPosition": 11,
+                        "colPosition": 3,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1877,
+                        "seatTitle": "F17",
+                        "rowPosition": 11,
+                        "colPosition": 4,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1892,
+                        "seatTitle": "F16",
+                        "rowPosition": 11,
+                        "colPosition": 7,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1893,
+                        "seatTitle": "F15",
+                        "rowPosition": 11,
+                        "colPosition": 8,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1894,
+                        "seatTitle": "F14",
+                        "rowPosition": 11,
+                        "colPosition": 9,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1895,
+                        "seatTitle": "F13",
+                        "rowPosition": 11,
+                        "colPosition": 10,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1896,
+                        "seatTitle": "F12",
+                        "rowPosition": 11,
+                        "colPosition": 11,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1897,
+                        "seatTitle": "F11",
+                        "rowPosition": 11,
+                        "colPosition": 12,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1898,
+                        "seatTitle": "F10",
+                        "rowPosition": 11,
+                        "colPosition": 13,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1899,
+                        "seatTitle": "F09",
+                        "rowPosition": 11,
+                        "colPosition": 14,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1900,
+                        "seatTitle": "F08",
+                        "rowPosition": 11,
+                        "colPosition": 15,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1901,
+                        "seatTitle": "F07",
+                        "rowPosition": 11,
+                        "colPosition": 16,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 2653,
+                        "seatTitle": "F06",
+                        "rowPosition": 11,
+                        "colPosition": 17,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 2654,
+                        "seatTitle": "F05",
+                        "rowPosition": 11,
+                        "colPosition": 18,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1871,
+                        "seatTitle": "E20",
+                        "rowPosition": 12,
+                        "colPosition": 1,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1878,
+                        "seatTitle": "E19",
+                        "rowPosition": 12,
+                        "colPosition": 2,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1879,
+                        "seatTitle": "E18",
+                        "rowPosition": 12,
+                        "colPosition": 3,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1880,
+                        "seatTitle": "E17",
+                        "rowPosition": 12,
+                        "colPosition": 4,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1904,
+                        "seatTitle": "E16",
+                        "rowPosition": 12,
+                        "colPosition": 7,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1905,
+                        "seatTitle": "E15",
+                        "rowPosition": 12,
+                        "colPosition": 8,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1906,
+                        "seatTitle": "E14",
+                        "rowPosition": 12,
+                        "colPosition": 9,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1907,
+                        "seatTitle": "E13",
+                        "rowPosition": 12,
+                        "colPosition": 10,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1908,
+                        "seatTitle": "E12",
+                        "rowPosition": 12,
+                        "colPosition": 11,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1909,
+                        "seatTitle": "E11",
+                        "rowPosition": 12,
+                        "colPosition": 12,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1910,
+                        "seatTitle": "E10",
+                        "rowPosition": 12,
+                        "colPosition": 13,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1911,
+                        "seatTitle": "E09",
+                        "rowPosition": 12,
+                        "colPosition": 14,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1912,
+                        "seatTitle": "E08",
+                        "rowPosition": 12,
+                        "colPosition": 15,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1913,
+                        "seatTitle": "E07",
+                        "rowPosition": 12,
+                        "colPosition": 16,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 2655,
+                        "seatTitle": "E06",
+                        "rowPosition": 12,
+                        "colPosition": 17,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 2656,
+                        "seatTitle": "E05",
+                        "rowPosition": 12,
+                        "colPosition": 18,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1872,
+                        "seatTitle": "D20",
+                        "rowPosition": 13,
+                        "colPosition": 1,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1881,
+                        "seatTitle": "D19",
+                        "rowPosition": 13,
+                        "colPosition": 2,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1882,
+                        "seatTitle": "D18",
+                        "rowPosition": 13,
+                        "colPosition": 3,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1883,
+                        "seatTitle": "D17",
+                        "rowPosition": 13,
+                        "colPosition": 4,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1916,
+                        "seatTitle": "D16",
+                        "rowPosition": 13,
+                        "colPosition": 7,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1917,
+                        "seatTitle": "D15",
+                        "rowPosition": 13,
+                        "colPosition": 8,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1918,
+                        "seatTitle": "D14",
+                        "rowPosition": 13,
+                        "colPosition": 9,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1919,
+                        "seatTitle": "D13",
+                        "rowPosition": 13,
+                        "colPosition": 10,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1920,
+                        "seatTitle": "D12",
+                        "rowPosition": 13,
+                        "colPosition": 11,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1921,
+                        "seatTitle": "D11",
+                        "rowPosition": 13,
+                        "colPosition": 12,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1922,
+                        "seatTitle": "D10",
+                        "rowPosition": 13,
+                        "colPosition": 13,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1923,
+                        "seatTitle": "D09",
+                        "rowPosition": 13,
+                        "colPosition": 14,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1924,
+                        "seatTitle": "D08",
+                        "rowPosition": 13,
+                        "colPosition": 15,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1925,
+                        "seatTitle": "D07",
+                        "rowPosition": 13,
+                        "colPosition": 16,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 2657,
+                        "seatTitle": "D06",
+                        "rowPosition": 13,
+                        "colPosition": 17,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 2658,
+                        "seatTitle": "D05",
+                        "rowPosition": 13,
+                        "colPosition": 18,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1873,
+                        "seatTitle": "C20",
+                        "rowPosition": 14,
+                        "colPosition": 1,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1884,
+                        "seatTitle": "C19",
+                        "rowPosition": 14,
+                        "colPosition": 2,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1885,
+                        "seatTitle": "C18",
+                        "rowPosition": 14,
+                        "colPosition": 3,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1886,
+                        "seatTitle": "C17",
+                        "rowPosition": 14,
+                        "colPosition": 4,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1928,
+                        "seatTitle": "C16",
+                        "rowPosition": 14,
+                        "colPosition": 7,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1929,
+                        "seatTitle": "C15",
+                        "rowPosition": 14,
+                        "colPosition": 8,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1930,
+                        "seatTitle": "C14",
+                        "rowPosition": 14,
+                        "colPosition": 9,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1931,
+                        "seatTitle": "C13",
+                        "rowPosition": 14,
+                        "colPosition": 10,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1932,
+                        "seatTitle": "C12",
+                        "rowPosition": 14,
+                        "colPosition": 11,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1933,
+                        "seatTitle": "C11",
+                        "rowPosition": 14,
+                        "colPosition": 12,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1934,
+                        "seatTitle": "C10",
+                        "rowPosition": 14,
+                        "colPosition": 13,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1935,
+                        "seatTitle": "C09",
+                        "rowPosition": 14,
+                        "colPosition": 14,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1936,
+                        "seatTitle": "C08",
+                        "rowPosition": 14,
+                        "colPosition": 15,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1937,
+                        "seatTitle": "C07",
+                        "rowPosition": 14,
+                        "colPosition": 16,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 2651,
+                        "seatTitle": "C06",
+                        "rowPosition": 14,
+                        "colPosition": 17,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 2652,
+                        "seatTitle": "C05",
+                        "rowPosition": 14,
+                        "colPosition": 18,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1874,
+                        "seatTitle": "B20",
+                        "rowPosition": 15,
+                        "colPosition": 1,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1887,
+                        "seatTitle": "B19",
+                        "rowPosition": 15,
+                        "colPosition": 2,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1888,
+                        "seatTitle": "B18",
+                        "rowPosition": 15,
+                        "colPosition": 3,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1889,
+                        "seatTitle": "B17",
+                        "rowPosition": 15,
+                        "colPosition": 4,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1940,
+                        "seatTitle": "B16",
+                        "rowPosition": 15,
+                        "colPosition": 7,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1941,
+                        "seatTitle": "B15",
+                        "rowPosition": 15,
+                        "colPosition": 8,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1942,
+                        "seatTitle": "B14",
+                        "rowPosition": 15,
+                        "colPosition": 9,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1943,
+                        "seatTitle": "B13",
+                        "rowPosition": 15,
+                        "colPosition": 10,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1944,
+                        "seatTitle": "B12",
+                        "rowPosition": 15,
+                        "colPosition": 11,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1945,
+                        "seatTitle": "B11",
+                        "rowPosition": 15,
+                        "colPosition": 12,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1946,
+                        "seatTitle": "B10",
+                        "rowPosition": 15,
+                        "colPosition": 13,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1947,
+                        "seatTitle": "B09",
+                        "rowPosition": 15,
+                        "colPosition": 14,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1948,
+                        "seatTitle": "B08",
+                        "rowPosition": 15,
+                        "colPosition": 15,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1949,
+                        "seatTitle": "B07",
+                        "rowPosition": 15,
+                        "colPosition": 16,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 2649,
+                        "seatTitle": "B06",
+                        "rowPosition": 15,
+                        "colPosition": 17,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 2650,
+                        "seatTitle": "B05",
+                        "rowPosition": 15,
+                        "colPosition": 18,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1952,
+                        "seatTitle": "A16",
+                        "rowPosition": 16,
+                        "colPosition": 7,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1953,
+                        "seatTitle": "A15",
+                        "rowPosition": 16,
+                        "colPosition": 8,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1954,
+                        "seatTitle": "A14",
+                        "rowPosition": 16,
+                        "colPosition": 9,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1955,
+                        "seatTitle": "A13",
+                        "rowPosition": 16,
+                        "colPosition": 10,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1956,
+                        "seatTitle": "A12",
+                        "rowPosition": 16,
+                        "colPosition": 11,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1957,
+                        "seatTitle": "A11",
+                        "rowPosition": 16,
+                        "colPosition": 12,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1958,
+                        "seatTitle": "A10",
+                        "rowPosition": 16,
+                        "colPosition": 13,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1959,
+                        "seatTitle": "A09",
+                        "rowPosition": 16,
+                        "colPosition": 14,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1960,
+                        "seatTitle": "A08",
+                        "rowPosition": 16,
+                        "colPosition": 15,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 1961,
+                        "seatTitle": "A07",
+                        "rowPosition": 16,
+                        "colPosition": 16,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 2647,
+                        "seatTitle": "A06",
+                        "rowPosition": 16,
+                        "colPosition": 17,
+                        "seatStatus": 1
+                    },
+                    {
+                        "classId": 1,
+                        "seatSeqId": 2648,
+                        "seatTitle": "A05",
+                        "rowPosition": 16,
+                        "colPosition": 18,
+                        "seatStatus": 0
+                    }
+                ]
+            }
+        ]
+    },
+    "message": [
+        "Request Success"
+    ]
+}docker compose restart

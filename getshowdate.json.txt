@@ -1,0 +1,139 @@
+{
+    "status": "success",
+    "code": 200,
+    "data": [
+        {
+            "locID": 2,
+            "showDate": "2026-07-30",
+            "availableMovies": [
+                {
+                    "movieSynopsis": null,
+                    "movie_id": 1711,
+                    "movie_title": "The Odyssey",
+                    "director_name": "Christopher Nolan",
+                    "rating": null,
+                    "movie_length": "2H 52M",
+                    "category": "2D",
+                    "actor": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Lupita Nyong’o, Zendaya, Charlize Theron",
+                    "genre": "Action,Adventure,Fantasy",
+                    "language": "English",
+                    "release": "17-07-2026",
+                    "cover_image": "https:\/\/image.cineplexbd.com\/movies\/178375963815970.webp",
+                    "profile_image": "https:\/\/image.cineplexbd.com\/movies\/178375963885946.webp",
+                    "trailer_url": "https:\/\/youtu.be\/f_bKjZeJBBI?si=iz9i4KjWxqkRWvi-"
+                },
+                {
+                    "movieSynopsis": null,
+                    "movie_id": 1713,
+                    "movie_title": "Passenger",
+                    "director_name": "André Øvredal",
+                    "rating": null,
+                    "movie_length": "1H 37M",
+                    "category": "2D",
+                    "actor": "Jacob Scipio,Lou Llobell",
+                    "genre": "Horror",
+                    "language": "English",
+                    "release": "24-07-2026",
+                    "cover_image": "https:\/\/image.cineplexbd.com\/movies\/178360034360560.webp",
+                    "profile_image": "https:\/\/image.cineplexbd.com\/movies\/178360034318727.webp",
+                    "trailer_url": null
+                },
+                {
+                    "movieSynopsis": null,
+                    "movie_id": 1716,
+                    "movie_title": "Spider-Man: Brand New Day (2D)",
+                    "director_name": "Destin Daniel Cretton",
+                    "rating": null,
+                    "movie_length": "2h 24m",
+                    "category": "2D",
+                    "actor": "TOM HOLLAND, ZENDAYA, SADIE SINK, LIZA COLÓN, JACOB BATALON",
+                    "genre": "Action,Adventure,Sci-Fi",
+                    "language": "English",
+                    "release": "30-07-2026",
+                    "cover_image": "https:\/\/image.cineplexbd.com\/movies\/178515901642083.webp",
+                    "profile_image": "https:\/\/image.cineplexbd.com\/movies\/178515901698542.webp",
+                    "trailer_url": null
+                }
+            ]
+        },
+        {
+            "locID": 2,
+            "showDate": "2026-07-31",
+            "availableMovies": [
+                {
+                    "movieSynopsis": null,
+                    "movie_id": 1711,
+                    "movie_title": "The Odyssey",
+                    "director_name": "Christopher Nolan",
+                    "rating": null,
+                    "movie_length": "2H 52M",
+                    "category": "2D",
+                    "actor": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Lupita Nyong’o, Zendaya, Charlize Theron",
+                    "genre": "Action,Adventure,Fantasy",
+                    "language": "English",
+                    "release": "17-07-2026",
+                    "cover_image": "https:\/\/image.cineplexbd.com\/movies\/178375963815970.webp",
+                    "profile_image": "https:\/\/image.cineplexbd.com\/movies\/178375963885946.webp",
+                    "trailer_url": "https:\/\/youtu.be\/f_bKjZeJBBI?si=iz9i4KjWxqkRWvi-"
+                },
+                {
+                    "movieSynopsis": null,
+                    "movie_id": 1716,
+                    "movie_title": "Spider-Man: Brand New Day (2D)",
+                    "director_name": "Destin Daniel Cretton",
+                    "rating": null,
+                    "movie_length": "2h 24m",
+                    "category": "2D",
+                    "actor": "TOM HOLLAND, ZENDAYA, SADIE SINK, LIZA COLÓN, JACOB BATALON",
+                    "genre": "Action,Adventure,Sci-Fi",
+                    "language": "English",
+                    "release": "30-07-2026",
+                    "cover_image": "https:\/\/image.cineplexbd.com\/movies\/178515901642083.webp",
+                    "profile_image": "https:\/\/image.cineplexbd.com\/movies\/178515901698542.webp",
+                    "trailer_url": null
+                }
+            ]
+        },
+        {
+            "locID": 2,
+            "showDate": "2026-08-01",
+            "availableMovies": [
+                {
+                    "movieSynopsis": null,
+                    "movie_id": 1711,
+                    "movie_title": "The Odyssey",
+                    "director_name": "Christopher Nolan",
+                    "rating": null,
+                    "movie_length": "2H 52M",
+                    "category": "2D",
+                    "actor": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Lupita Nyong’o, Zendaya, Charlize Theron",
+                    "genre": "Action,Adventure,Fantasy",
+                    "language": "English",
+                    "release": "17-07-2026",
+                    "cover_image": "https:\/\/image.cineplexbd.com\/movies\/178375963815970.webp",
+                    "profile_image": "https:\/\/image.cineplexbd.com\/movies\/178375963885946.webp",
+                    "trailer_url": "https:\/\/youtu.be\/f_bKjZeJBBI?si=iz9i4KjWxqkRWvi-"
+                },
+                {
+                    "movieSynopsis": null,
+                    "movie_id": 1716,
+                    "movie_title": "Spider-Man: Brand New Day (2D)",
+                    "director_name": "Destin Daniel Cretton",
+                    "rating": null,
+                    "movie_length": "2h 24m",
+                    "category": "2D",
+                    "actor": "TOM HOLLAND, ZENDAYA, SADIE SINK, LIZA COLÓN, JACOB BATALON",
+                    "genre": "Action,Adventure,Sci-Fi",
+                    "language": "English",
+                    "release": "30-07-2026",
+                    "cover_image": "https:\/\/image.cineplexbd.com\/movies\/178515901642083.webp",
+                    "profile_image": "https:\/\/image.cineplexbd.com\/movies\/178515901698542.webp",
+                    "trailer_url": null
+                }
+            ]
+        }
+    ],
+    "message": [
+        "Request Success"
+    ]
+}

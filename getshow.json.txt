@@ -1,0 +1,132 @@
+{
+    "status": "success",
+    "code": 200,
+    "data": [
+        {
+            "locId": 2,
+            "movieId": 1716,
+            "movieTitle": "Spider-Man: Brand New Day (2D)",
+            "showDate": "2026-07-30",
+            "screenID": 7,
+            "screenTitle": "Hall 1",
+            "screenTypeID": 1,
+            "screenTypeName": "Regular",
+            "showTimes": [
+                {
+                    "programId": 30017,
+                    "profileId": 7,
+                    "showTime": "13:01:00",
+                    "seatPrices": [
+                        {
+                            "seatTypeID": 1,
+                            "seatTypeTitle": "Regular",
+                            "unitPrice": 400
+                        },
+                        {
+                            "seatTypeID": 2,
+                            "seatTypeTitle": "Premium",
+                            "unitPrice": 450
+                        }
+                    ]
+                },
+                {
+                    "programId": 29937,
+                    "profileId": 7,
+                    "showTime": "16:15:00",
+                    "seatPrices": [
+                        {
+                            "seatTypeID": 1,
+                            "seatTypeTitle": "Regular",
+                            "unitPrice": 500
+                        },
+                        {
+                            "seatTypeID": 2,
+                            "seatTypeTitle": "Premium",
+                            "unitPrice": 550
+                        }
+                    ]
+                },
+                {
+                    "programId": 29938,
+                    "profileId": 7,
+                    "showTime": "19:15:00",
+                    "seatPrices": [
+                        {
+                            "seatTypeID": 1,
+                            "seatTypeTitle": "Regular",
+                            "unitPrice": 500
+                        },
+                        {
+                            "seatTypeID": 2,
+                            "seatTypeTitle": "Premium",
+                            "unitPrice": 550
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "locId": 2,
+            "movieId": 1716,
+            "movieTitle": "Spider-Man: Brand New Day (2D)",
+            "showDate": "2026-07-30",
+            "screenID": 8,
+            "screenTitle": "Hall 2",
+            "screenTypeID": 2,
+            "screenTypeName": "Premium",
+            "showTimes": [
+                {
+                    "programId": 29957,
+                    "profileId": 8,
+                    "showTime": "10:50:00",
+                    "seatPrices": [
+                        {
+                            "seatTypeID": 2,
+                            "seatTypeTitle": "Premium",
+                            "unitPrice": 500
+                        }
+                    ]
+                },
+                {
+                    "programId": 29958,
+                    "profileId": 8,
+                    "showTime": "13:50:00",
+                    "seatPrices": [
+                        {
+                            "seatTypeID": 2,
+                            "seatTypeTitle": "Premium",
+                            "unitPrice": 500
+                        }
+                    ]
+                },
+                {
+                    "programId": 29969,
+                    "profileId": 8,
+                    "showTime": "16:45:00",
+                    "seatPrices": [
+                        {
+                            "seatTypeID": 2,
+                            "seatTypeTitle": "Premium",
+                            "unitPrice": 650
+                        }
+                    ]
+                },
+                {
+                    "programId": 29970,
+                    "profileId": 8,
+                    "showTime": "19:45:00",
+                    "seatPrices": [
+                        {
+                            "seatTypeID": 2,
+                            "seatTypeTitle": "Premium",
+                            "unitPrice": 650
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "message": [
+        "Request Success"
+    ]
+}

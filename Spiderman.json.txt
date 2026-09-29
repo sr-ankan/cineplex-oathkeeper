@@ -1,0 +1,627 @@
+{
+    "status": "success",
+    "code": 200,
+    "data": {
+        "id": 485,
+        "movie_id": 1716,
+        "slug": "spider-man-brand-new-day-2d",
+        "profile_image": "https:\/\/image.cineplexbd.com\/movies\/178515901698542.webp",
+        "cover_image": "https:\/\/image.cineplexbd.com\/movies\/178515901642083.webp",
+        "movie_title": "Spider-Man: Brand New Day (2D)",
+        "rating": null,
+        "category": "2D",
+        "actor": "TOM HOLLAND, ZENDAYA, SADIE SINK, LIZA COL\u00d3N, JACOB BATALON",
+        "genre": "Action,Adventure,Sci-Fi",
+        "release": "30-07-2026",
+        "language": "English",
+        "trailer_url": null,
+        "status": 1,
+        "get_detail": {
+            "id": 482,
+            "movie_id": 485,
+            "cast": null,
+            "producers": null,
+            "writers": null,
+            "gallery": null,
+            "synopsis": "<p>Four years have gone by since we last caught up with our friendly neighborhood hero. Peter Parker is no more, but Spider-Man is at the top of his game keeping New York City safe. Things are going well for our anonymous hero until an unusual trail of crimes pulls him into a web of mystery larger than he\u2019s ever faced before. In order to take on what\u2019s ahead, Spider-Man not only needs to be at the top of his physical and mental game, but he must also be prepared to face the repercussions of his past.<\/p>"
+        },
+        "show_time": [
+            {
+                "date": "30th , July 2026",
+                "raw_date": "2026-07-30",
+                "date_name": "Thursday",
+                "slot": [
+                    {
+                        "time": "10:50 AM",
+                        "hall": 1,
+                        "hall_id": 8,
+                        "hall_type": "Atmos",
+                        "show_date": "2026-07-30",
+                        "show_time": "2026-07-30 10:50:00",
+                        "showtime_id": 79,
+                        "schedule_id": 29957,
+                        "profile_id": 53
+                    },
+                    {
+                        "time": "01:01 PM",
+                        "hall": 2,
+                        "hall_id": 7,
+                        "hall_type": "Premium",
+                        "show_date": "2026-07-30",
+                        "show_time": "2026-07-30 13:01:00",
+                        "showtime_id": 181,
+                        "schedule_id": 30017,
+                        "profile_id": 47
+                    },
+                    {
+                        "time": "01:50 PM",
+                        "hall": 1,
+                        "hall_id": 8,
+                        "hall_type": "Atmos",
+                        "show_date": "2026-07-30",
+                        "show_time": "2026-07-30 13:50:00",
+                        "showtime_id": 91,
+                        "schedule_id": 29958,
+                        "profile_id": 53
+                    },
+                    {
+                        "time": "04:15 PM",
+                        "hall": 2,
+                        "hall_id": 7,
+                        "hall_type": "Premium",
+                        "show_date": "2026-07-30",
+                        "show_time": "2026-07-30 16:15:00",
+                        "showtime_id": 57,
+                        "schedule_id": 29937,
+                        "profile_id": 49
+                    },
+                    {
+                        "time": "04:45 PM",
+                        "hall": 1,
+                        "hall_id": 8,
+                        "hall_type": "Atmos",
+                        "show_date": "2026-07-30",
+                        "show_time": "2026-07-30 16:45:00",
+                        "showtime_id": 23,
+                        "schedule_id": 29969,
+                        "profile_id": 55
+                    },
+                    {
+                        "time": "07:15 PM",
+                        "hall": 2,
+                        "hall_id": 7,
+                        "hall_type": "Premium",
+                        "show_date": "2026-07-30",
+                        "show_time": "2026-07-30 19:15:00",
+                        "showtime_id": 48,
+                        "schedule_id": 29938,
+                        "profile_id": 49
+                    },
+                    {
+                        "time": "07:45 PM",
+                        "hall": 1,
+                        "hall_id": 8,
+                        "hall_type": "Atmos",
+                        "show_date": "2026-07-30",
+                        "show_time": "2026-07-30 19:45:00",
+                        "showtime_id": 24,
+                        "schedule_id": 29970,
+                        "profile_id": 55
+                    }
+                ]
+            },
+            {
+                "date": "31st , July 2026",
+                "raw_date": "2026-07-31",
+                "date_name": "Friday",
+                "slot": [
+                    {
+                        "time": "10:50 AM",
+                        "hall": 1,
+                        "hall_id": 8,
+                        "hall_type": "Atmos",
+                        "show_date": "2026-07-31",
+                        "show_time": "2026-07-31 10:50:00",
+                        "showtime_id": 79,
+                        "schedule_id": 29949,
+                        "profile_id": 55
+                    },
+                    {
+                        "time": "01:50 PM",
+                        "hall": 1,
+                        "hall_id": 8,
+                        "hall_type": "Atmos",
+                        "show_date": "2026-07-31",
+                        "show_time": "2026-07-31 13:50:00",
+                        "showtime_id": 91,
+                        "schedule_id": 29950,
+                        "profile_id": 55
+                    },
+                    {
+                        "time": "04:15 PM",
+                        "hall": 2,
+                        "hall_id": 7,
+                        "hall_type": "Premium",
+                        "show_date": "2026-07-31",
+                        "show_time": "2026-07-31 16:15:00",
+                        "showtime_id": 57,
+                        "schedule_id": 29933,
+                        "profile_id": 49
+                    },
+                    {
+                        "time": "04:45 PM",
+                        "hall": 1,
+                        "hall_id": 8,
+                        "hall_type": "Atmos",
+                        "show_date": "2026-07-31",
+                        "show_time": "2026-07-31 16:45:00",
+                        "showtime_id": 23,
+                        "schedule_id": 29951,
+                        "profile_id": 55
+                    },
+                    {
+                        "time": "07:15 PM",
+                        "hall": 2,
+                        "hall_id": 7,
+                        "hall_type": "Premium",
+                        "show_date": "2026-07-31",
+                        "show_time": "2026-07-31 19:15:00",
+                        "showtime_id": 48,
+                        "schedule_id": 29934,
+                        "profile_id": 49
+                    },
+                    {
+                        "time": "07:45 PM",
+                        "hall": 1,
+                        "hall_id": 8,
+                        "hall_type": "Atmos",
+                        "show_date": "2026-07-31",
+                        "show_time": "2026-07-31 19:45:00",
+                        "showtime_id": 24,
+                        "schedule_id": 29952,
+                        "profile_id": 55
+                    }
+                ]
+            },
+            {
+                "date": "1st , August 2026",
+                "raw_date": "2026-08-01",
+                "date_name": "Saturday",
+                "slot": [
+                    {
+                        "time": "10:50 AM",
+                        "hall": 1,
+                        "hall_id": 8,
+                        "hall_type": "Atmos",
+                        "show_date": "2026-08-01",
+                        "show_time": "2026-08-01 10:50:00",
+                        "showtime_id": 79,
+                        "schedule_id": 29953,
+                        "profile_id": 55
+                    },
+                    {
+                        "time": "01:50 PM",
+                        "hall": 1,
+                        "hall_id": 8,
+                        "hall_type": "Atmos",
+                        "show_date": "2026-08-01",
+                        "show_time": "2026-08-01 13:50:00",
+                        "showtime_id": 91,
+                        "schedule_id": 29954,
+                        "profile_id": 55
+                    },
+                    {
+                        "time": "04:15 PM",
+                        "hall": 2,
+                        "hall_id": 7,
+                        "hall_type": "Premium",
+                        "show_date": "2026-08-01",
+                        "show_time": "2026-08-01 16:15:00",
+                        "showtime_id": 57,
+                        "schedule_id": 29935,
+                        "profile_id": 49
+                    },
+                    {
+                        "time": "04:45 PM",
+                        "hall": 1,
+                        "hall_id": 8,
+                        "hall_type": "Atmos",
+                        "show_date": "2026-08-01",
+                        "show_time": "2026-08-01 16:45:00",
+                        "showtime_id": 23,
+                        "schedule_id": 29955,
+                        "profile_id": 55
+                    },
+                    {
+                        "time": "07:15 PM",
+                        "hall": 2,
+                        "hall_id": 7,
+                        "hall_type": "Premium",
+                        "show_date": "2026-08-01",
+                        "show_time": "2026-08-01 19:15:00",
+                        "showtime_id": 48,
+                        "schedule_id": 29936,
+                        "profile_id": 49
+                    },
+                    {
+                        "time": "07:45 PM",
+                        "hall": 1,
+                        "hall_id": 8,
+                        "hall_type": "Atmos",
+                        "show_date": "2026-08-01",
+                        "show_time": "2026-08-01 19:45:00",
+                        "showtime_id": 24,
+                        "schedule_id": 29956,
+                        "profile_id": 55
+                    }
+                ]
+            },
+            {
+                "date": "2nd , August 2026",
+                "raw_date": "2026-08-02",
+                "date_name": "Sunday",
+                "slot": [
+                    {
+                        "time": "10:50 AM",
+                        "hall": 1,
+                        "hall_id": 8,
+                        "hall_type": "Atmos",
+                        "show_date": "2026-08-02",
+                        "show_time": "2026-08-02 10:50:00",
+                        "showtime_id": 79,
+                        "schedule_id": 29959,
+                        "profile_id": 53
+                    },
+                    {
+                        "time": "01:50 PM",
+                        "hall": 1,
+                        "hall_id": 8,
+                        "hall_type": "Atmos",
+                        "show_date": "2026-08-02",
+                        "show_time": "2026-08-02 13:50:00",
+                        "showtime_id": 91,
+                        "schedule_id": 29960,
+                        "profile_id": 53
+                    },
+                    {
+                        "time": "04:15 PM",
+                        "hall": 2,
+                        "hall_id": 7,
+                        "hall_type": "Premium",
+                        "show_date": "2026-08-02",
+                        "show_time": "2026-08-02 16:15:00",
+                        "showtime_id": 57,
+                        "schedule_id": 29939,
+                        "profile_id": 49
+                    },
+                    {
+                        "time": "04:45 PM",
+                        "hall": 1,
+                        "hall_id": 8,
+                        "hall_type": "Atmos",
+                        "show_date": "2026-08-02",
+                        "show_time": "2026-08-02 16:45:00",
+                        "showtime_id": 23,
+                        "schedule_id": 29971,
+                        "profile_id": 55
+                    },
+                    {
+                        "time": "07:15 PM",
+                        "hall": 2,
+                        "hall_id": 7,
+                        "hall_type": "Premium",
+                        "show_date": "2026-08-02",
+                        "show_time": "2026-08-02 19:15:00",
+                        "showtime_id": 48,
+                        "schedule_id": 29940,
+                        "profile_id": 49
+                    },
+                    {
+                        "time": "07:45 PM",
+                        "hall": 1,
+                        "hall_id": 8,
+                        "hall_type": "Atmos",
+                        "show_date": "2026-08-02",
+                        "show_time": "2026-08-02 19:45:00",
+                        "showtime_id": 24,
+                        "schedule_id": 29972,
+                        "profile_id": 55
+                    }
+                ]
+            },
+            {
+                "date": "3rd , August 2026",
+                "raw_date": "2026-08-03",
+                "date_name": "Monday",
+                "slot": [
+                    {
+                        "time": "10:50 AM",
+                        "hall": 1,
+                        "hall_id": 8,
+                        "hall_type": "Atmos",
+                        "show_date": "2026-08-03",
+                        "show_time": "2026-08-03 10:50:00",
+                        "showtime_id": 79,
+                        "schedule_id": 29961,
+                        "profile_id": 53
+                    },
+                    {
+                        "time": "01:50 PM",
+                        "hall": 1,
+                        "hall_id": 8,
+                        "hall_type": "Atmos",
+                        "show_date": "2026-08-03",
+                        "show_time": "2026-08-03 13:50:00",
+                        "showtime_id": 91,
+                        "schedule_id": 29962,
+                        "profile_id": 53
+                    },
+                    {
+                        "time": "04:15 PM",
+                        "hall": 2,
+                        "hall_id": 7,
+                        "hall_type": "Premium",
+                        "show_date": "2026-08-03",
+                        "show_time": "2026-08-03 16:15:00",
+                        "showtime_id": 57,
+                        "schedule_id": 29941,
+                        "profile_id": 49
+                    },
+                    {
+                        "time": "04:45 PM",
+                        "hall": 1,
+                        "hall_id": 8,
+                        "hall_type": "Atmos",
+                        "show_date": "2026-08-03",
+                        "show_time": "2026-08-03 16:45:00",
+                        "showtime_id": 23,
+                        "schedule_id": 29973,
+                        "profile_id": 55
+                    },
+                    {
+                        "time": "07:15 PM",
+                        "hall": 2,
+                        "hall_id": 7,
+                        "hall_type": "Premium",
+                        "show_date": "2026-08-03",
+                        "show_time": "2026-08-03 19:15:00",
+                        "showtime_id": 48,
+                        "schedule_id": 29942,
+                        "profile_id": 49
+                    },
+                    {
+                        "time": "07:45 PM",
+                        "hall": 1,
+                        "hall_id": 8,
+                        "hall_type": "Atmos",
+                        "show_date": "2026-08-03",
+                        "show_time": "2026-08-03 19:45:00",
+                        "showtime_id": 24,
+                        "schedule_id": 29974,
+                        "profile_id": 55
+                    }
+                ]
+            },
+            {
+                "date": "4th , August 2026",
+                "raw_date": "2026-08-04",
+                "date_name": "Tuesday",
+                "slot": [
+                    {
+                        "time": "10:50 AM",
+                        "hall": 1,
+                        "hall_id": 8,
+                        "hall_type": "Atmos",
+                        "show_date": "2026-08-04",
+                        "show_time": "2026-08-04 10:50:00",
+                        "showtime_id": 79,
+                        "schedule_id": 29963,
+                        "profile_id": 53
+                    },
+                    {
+                        "time": "01:50 PM",
+                        "hall": 1,
+                        "hall_id": 8,
+                        "hall_type": "Atmos",
+                        "show_date": "2026-08-04",
+                        "show_time": "2026-08-04 13:50:00",
+                        "showtime_id": 91,
+                        "schedule_id": 29964,
+                        "profile_id": 53
+                    },
+                    {
+                        "time": "04:15 PM",
+                        "hall": 2,
+                        "hall_id": 7,
+                        "hall_type": "Premium",
+                        "show_date": "2026-08-04",
+                        "show_time": "2026-08-04 16:15:00",
+                        "showtime_id": 57,
+                        "schedule_id": 29943,
+                        "profile_id": 49
+                    },
+                    {
+                        "time": "04:45 PM",
+                        "hall": 1,
+                        "hall_id": 8,
+                        "hall_type": "Atmos",
+                        "show_date": "2026-08-04",
+                        "show_time": "2026-08-04 16:45:00",
+                        "showtime_id": 23,
+                        "schedule_id": 29975,
+                        "profile_id": 55
+                    },
+                    {
+                        "time": "07:15 PM",
+                        "hall": 2,
+                        "hall_id": 7,
+                        "hall_type": "Premium",
+                        "show_date": "2026-08-04",
+                        "show_time": "2026-08-04 19:15:00",
+                        "showtime_id": 48,
+                        "schedule_id": 29944,
+                        "profile_id": 49
+                    },
+                    {
+                        "time": "07:45 PM",
+                        "hall": 1,
+                        "hall_id": 8,
+                        "hall_type": "Atmos",
+                        "show_date": "2026-08-04",
+                        "show_time": "2026-08-04 19:45:00",
+                        "showtime_id": 24,
+                        "schedule_id": 29976,
+                        "profile_id": 55
+                    }
+                ]
+            },
+            {
+                "date": "5th , August 2026",
+                "raw_date": "2026-08-05",
+                "date_name": "Wednesday",
+                "slot": [
+                    {
+                        "time": "10:50 AM",
+                        "hall": 1,
+                        "hall_id": 8,
+                        "hall_type": "Atmos",
+                        "show_date": "2026-08-05",
+                        "show_time": "2026-08-05 10:50:00",
+                        "showtime_id": 79,
+                        "schedule_id": 30009,
+                        "profile_id": 55
+                    },
+                    {
+                        "time": "01:50 PM",
+                        "hall": 1,
+                        "hall_id": 8,
+                        "hall_type": "Atmos",
+                        "show_date": "2026-08-05",
+                        "show_time": "2026-08-05 13:50:00",
+                        "showtime_id": 91,
+                        "schedule_id": 30010,
+                        "profile_id": 55
+                    },
+                    {
+                        "time": "04:15 PM",
+                        "hall": 2,
+                        "hall_id": 7,
+                        "hall_type": "Premium",
+                        "show_date": "2026-08-05",
+                        "show_time": "2026-08-05 16:15:00",
+                        "showtime_id": 57,
+                        "schedule_id": 30007,
+                        "profile_id": 49
+                    },
+                    {
+                        "time": "04:45 PM",
+                        "hall": 1,
+                        "hall_id": 8,
+                        "hall_type": "Atmos",
+                        "show_date": "2026-08-05",
+                        "show_time": "2026-08-05 16:45:00",
+                        "showtime_id": 23,
+                        "schedule_id": 30011,
+                        "profile_id": 55
+                    },
+                    {
+                        "time": "07:15 PM",
+                        "hall": 2,
+                        "hall_id": 7,
+                        "hall_type": "Premium",
+                        "show_date": "2026-08-05",
+                        "show_time": "2026-08-05 19:15:00",
+                        "showtime_id": 48,
+                        "schedule_id": 30008,
+                        "profile_id": 49
+                    },
+                    {
+                        "time": "07:45 PM",
+                        "hall": 1,
+                        "hall_id": 8,
+                        "hall_type": "Atmos",
+                        "show_date": "2026-08-05",
+                        "show_time": "2026-08-05 19:45:00",
+                        "showtime_id": 24,
+                        "schedule_id": 30012,
+                        "profile_id": 55
+                    }
+                ]
+            },
+            {
+                "date": "6th , August 2026",
+                "raw_date": "2026-08-06",
+                "date_name": "Thursday",
+                "slot": [
+                    {
+                        "time": "10:50 AM",
+                        "hall": 1,
+                        "hall_id": 8,
+                        "hall_type": "Atmos",
+                        "show_date": "2026-08-06",
+                        "show_time": "2026-08-06 10:50:00",
+                        "showtime_id": 79,
+                        "schedule_id": 29967,
+                        "profile_id": 53
+                    },
+                    {
+                        "time": "01:50 PM",
+                        "hall": 1,
+                        "hall_id": 8,
+                        "hall_type": "Atmos",
+                        "show_date": "2026-08-06",
+                        "show_time": "2026-08-06 13:50:00",
+                        "showtime_id": 91,
+                        "schedule_id": 29968,
+                        "profile_id": 53
+                    },
+                    {
+                        "time": "04:15 PM",
+                        "hall": 2,
+                        "hall_id": 7,
+                        "hall_type": "Premium",
+                        "show_date": "2026-08-06",
+                        "show_time": "2026-08-06 16:15:00",
+                        "showtime_id": 57,
+                        "schedule_id": 29947,
+                        "profile_id": 49
+                    },
+                    {
+                        "time": "04:45 PM",
+                        "hall": 1,
+                        "hall_id": 8,
+                        "hall_type": "Atmos",
+                        "show_date": "2026-08-06",
+                        "show_time": "2026-08-06 16:45:00",
+                        "showtime_id": 23,
+                        "schedule_id": 29979,
+                        "profile_id": 55
+                    },
+                    {
+                        "time": "07:15 PM",
+                        "hall": 2,
+                        "hall_id": 7,
+                        "hall_type": "Premium",
+                        "show_date": "2026-08-06",
+                        "show_time": "2026-08-06 19:15:00",
+                        "showtime_id": 48,
+                        "schedule_id": 29948,
+                        "profile_id": 49
+                    },
+                    {
+                        "time": "07:45 PM",
+                        "hall": 1,
+                        "hall_id": 8,
+                        "hall_type": "Atmos",
+                        "show_date": "2026-08-06",
+                        "show_time": "2026-08-06 19:45:00",
+                        "showtime_id": 24,
+                        "schedule_id": 29980,
+                        "profile_id": 55
+                    }
+                ]
+            }
+        ]
+    },
+    "message": "Movie detail."
+}
